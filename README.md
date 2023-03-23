@@ -1,6 +1,6 @@
 - 👋 Hello everyone, I’m Jeremiah
-- 👀 I’m interested in Full Stack and Backend development because I love being creative and love solving situations.
-- 🌱 I’m currently learning Full Stack and looking forward to learning Python and Typescript down the line.
+- 👀 I’m interested in Full-Stack development because I love being creative and love solving situations.
+- 🌱 I’m a FullStack Developer that is learning each and everyday. I am looking forward to learning Typescript in the near future.
 - 📫 How to reach me @Jwarren619.
 
 
