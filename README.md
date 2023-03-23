@@ -1,5 +1,5 @@
 - 👋 Hello everyone, I’m Jeremiah
-- 👀 I’m interested in Full-Stack development because I love being creative and love solving situations.
+- 👀 I’m interested in Full-Stack development because I love being creative and love solving situations. I want to be knowledgeable in all areas.
 - 🌱 I’m a FullStack Developer that is learning each and everyday. I am looking forward to learning Typescript in the near future.
 - 📫 How to reach me @Jwarren619.
 
